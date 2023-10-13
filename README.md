@@ -40,7 +40,7 @@ Hi! ✨ I'm Ermarly, I'm a programmer, language teacher and software engineering
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-<h3>Social networks and contact: </h3>
+<h3> Social networks and contact: </h3>
 <div> 
   <a href="https://www.youtube.com/channel/UChQHo3hYd7EIswwST1P_uwA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lytechy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
