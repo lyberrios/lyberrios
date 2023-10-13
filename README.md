@@ -11,16 +11,16 @@
   <img align="center" alt="Marly-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--<img align="center" alt="Marly-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
-## About me - Sobre Mim
+<h3> About me - Sobre Mim</h3>
 <p><b>
-Hi! ✨ I'm Ermarly, I'm a programmer, language teacher and software engineering student!
-Olá!💬 Eu sou a Ermarly, sou programadora, professora de idiomas e estudante de engenharia de software!🚀
+Hi! ✨ I'm Ermarly, I'm a programmer, language teacher and software engineering student!</b></p>
+<p>Olá!💬 Eu sou a Ermarly, sou programadora, professora de idiomas e estudante de engenharia de software!🚀</p>
  <!--Desenvolvo aplicações Full-Stack para Web em Mongo DB, Express, React e Node.js, o famoso MERN  -->
-</b></p>
-<p>
-Outros conhecimentos são:
-Other knowledge I have are:
-<p>
+
+<h3>Other knowledge I have are:
+</h3>
+<h4>Outros conhecimentos são: </h4>
+
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
