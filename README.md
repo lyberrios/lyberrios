@@ -20,7 +20,7 @@ Hi! ✨ I'm Ermarly, I'm a programmer, language teacher and software engineering
 <h3>Other knowledge I have are:
 </h3>
 <h4>Outros conhecimentos são: </h4>
-
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -40,7 +40,7 @@ Hi! ✨ I'm Ermarly, I'm a programmer, language teacher and software engineering
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-</p>
+
 <!--
 **apapacho/apapacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
